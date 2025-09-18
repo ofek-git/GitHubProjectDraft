@@ -61,7 +61,7 @@ Click the **logos/emojis** below to jump directly to that step’s guide:
 
 ## 🖼️ Visuals  
 
-![DevOps Lifecycle](https://miro.medium.com/v2/resize:fit:1200/format:webp/1*U-fsNBmhR4ZBIc5kJ_PNYg.png)  
+![DevOps Lifecycle](https://example.com/path/to/devops-lifecycle.png)  
 
 ---
 
