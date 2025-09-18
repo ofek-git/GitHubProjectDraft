@@ -61,7 +61,7 @@ Click the **logos/emojis** below to jump directly to that step’s guide:
 
 ## 🖼️ Visuals  
 
-![DevOps Lifecycle](./assets/Devops-LC.jpg)  
+![DevOps Lifecycle](./Assets/Devops-LC.jpg)  
 
 ---
 
