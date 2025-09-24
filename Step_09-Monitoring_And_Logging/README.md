@@ -129,4 +129,4 @@ groups:
 
 - Access Prometheus at http://localhost:9090/targets to verify targets are scraped.
 
-Confirm application metrics appear on Grafana graphs.
+- Confirm application metrics appear on Grafana graphs.
